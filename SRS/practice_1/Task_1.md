@@ -5,6 +5,6 @@
    
 $a \cdot \ddot{x} + b \cdot \dot{x} + c \cdot x = d$
 
-5. From the list take coefficients of your ODE and solve them with three integrators: Explicit/Implicit Euler, Rung-Kutta methods.
-6. Compare results of these methods with analytical solution, dicsuss and conclude your thoughts in the .pdf report.
-7. Name of the report should be "Your_ISU_number_YourName_task1.pdf"
+4. From the list take coefficients of your ODE and solve them with three integrators: Explicit/Implicit Euler, Rung-Kutta methods.
+5. Compare results of these methods with analytical solution, dicsuss and conclude your thoughts in the .pdf report.
+6. Name of the report should be "Your_ISU_number_YourName_task1.pdf"
